@@ -7,6 +7,7 @@
     margin: 1rem 0;
     border-radius: 12px;
     background-color: #4b4b4b;
+    color: white;
 }
 
 .expense-item__description {
@@ -26,7 +27,6 @@
     margin: 0 1rem;
     color: white;
 }
-
 
 .expense-item__price {
     font-size: 1rem;
